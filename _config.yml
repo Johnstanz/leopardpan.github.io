@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 钟振升
+subtitle: 产品/应用心理学考研党
+description: 欢迎光临，生活愉快
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: Zhongzs
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "https://leopardpan.cn"
+avatarDesc: 产品人 / 考研党
+url: " http://michael07.gitee.io/pensonal"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
